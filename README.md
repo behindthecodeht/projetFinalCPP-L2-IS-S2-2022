@@ -4,5 +4,5 @@
 
     School : ESIH
     Level : L2 Info-Soir
-    Session : Session 1
-    Year : 2021
+    Session : Session 2
+    Year : 2022
