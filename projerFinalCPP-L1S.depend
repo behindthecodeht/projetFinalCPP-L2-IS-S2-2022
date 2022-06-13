@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1654720274 source:f:\projerfinalcpp-l1s\main.cpp
+	<iostream>
+	<cstdlib>
+	"projetFonction.h"
+
+1654713886 f:\projerfinalcpp-l1s\projetfonction.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstring>
+
+1654770988 source:f:\projerfinalcpp-l1s\projetfonction.cpp
+	"projetFonction.h"
+
